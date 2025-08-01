@@ -135,9 +135,9 @@ export const translations = {
       sourceCode: "Código Fuente",
       filters: {
         all: "Todos",
-        web: "Apps Web",
+        web: "Aplicaciones web",
         mobile: "Móvil",
-        design: "Diseño",
+        ai: "IA",
       },
     },
     skills: {
